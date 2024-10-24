@@ -34,7 +34,7 @@ Total number of duplicate elements found in the array is : 1
 /* NONE */
 
 /************************************************************************************************************
- * Featire Macro Definitions
+ * Feature Macro Definitions
 ************************************************************************************************************/
 #define OFFSET_1 1
 
