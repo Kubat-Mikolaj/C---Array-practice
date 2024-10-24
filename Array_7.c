@@ -101,8 +101,7 @@ int main()
     printf("\nSorted Array: \n");
     Array_Size(Array_3, num2);
 
-
-
+    return 0;
 }
 
 void Array_Size(int Array[], int num)
