@@ -60,7 +60,7 @@ int main()
     printf("Enter the number of elements to be stored: \n");
     scanf("%d", &num);
 
-    printf("\nEnter the elements of the first Array: \n");
+    printf("\nEnter the elements of the Array: \n");
     for (i = 0; i < num; i++)
     {
         printf("element - %d : ", i + OFFSET_1);
