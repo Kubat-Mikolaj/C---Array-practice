@@ -1,4 +1,4 @@
-/*
+/************************************************************************************************************
 
 Write a program in C to find the maximum and minimum elements in an array.
 The task involves writing a C program to find and display the maximum and minimum elements in an array. 
@@ -14,7 +14,7 @@ Expected Output :
 Maximum element is : 45
 Minimum element is : 21
 
-*/
+************************************************************************************************************/
 
 /************************************************************************************************************
  * Library Include Files
